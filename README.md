@@ -1,7 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Olá e bem vindo ao meu GitHub</h2>
-<h3 align="left">Sou o Rafael Ouverney, estudante de Engenharia de Software pelo IFPR (Intituto Federal do Paraná) - Campus Paranavaí</h3>
+<h2 align="left">Olá!</h2>
 
 ###
 
@@ -26,6 +25,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
 
 ###
