@@ -1,6 +1,7 @@
 <br clear="both">
 
-<h2 align="left">Olá!</h2>
+<h2 align="left">Olá e bem vindo ao meu GitHub</h2>
+<h3 align="left">Sou o Rafael Ouverney, estudante de Engenharia de Software pelo IFPR (Intituto Federal do Paraná) - Campus Paranavaí</h3>
 
 ###
 
